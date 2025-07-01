@@ -1,0 +1,37 @@
+{
+  "name": "@fca.gg/kino",
+  "version": "0.0.0",
+  "description": "A simple and lightweight logging library for Discord Bots",
+  "author": "FCA <development@fca.gg>",
+  "license": "AGPL-3.0",
+  "keywords": [
+    "logs",
+    "sentry",
+    "discord"
+  ],
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "exports": {
+    ".": "./lib/index.js"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FCAgreatgoals/kino.git"
+  },
+  "dependencies": {
+    "@sentry/node": "^9.23.0",
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
