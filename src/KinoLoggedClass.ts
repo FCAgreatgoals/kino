@@ -1,5 +1,5 @@
 /**
- * This file is part of Kino (https://github.com/FCAgreatgoals/kino).
+ * This file is part of @fca.gg/kino (https://github.com/FCAgreatgoals/kino).
  *
  * Copyright (C) 2025 SAS French Community Agency
  *
