@@ -1,7 +1,7 @@
 {
   "name": "@fca.gg/kino",
   "displayName": "Kino",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and lightweight logging library for Discord Bots",
   "author": "FCA <development@fca.gg>",
   "license": "AGPL-3.0",
