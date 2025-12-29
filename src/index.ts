@@ -19,6 +19,7 @@
 
 import Kino from './Kino'
 import KinoLoggedClass from './KinoLoggedClass'
+export type { Scope } from '@sentry/node'
 
 export { Kino, KinoLoggedClass }
 export default Kino
