@@ -38,7 +38,7 @@ User Application being subject to the terms of the AGPL-3.0, provided that:
 |---|---|
 | You fork or patch Kino and use it publicly | ✅ Publish your Kino modifications (e.g. a patch repo) |
 | You fork or patch Kino and expose it over a network | ✅ Publish your Kino modifications (e.g. a patch repo) |
-| You use Kino as a dependency (`npm install Kino`) | ❌ No obligation, your code stays yours |
+| You use Kino as a dependency (`npm install @fca.gg/kino`) | ❌ No obligation, your code stays yours |
 | You wrap Kino without modifying it | ❌ No obligation, your code stays yours |
 | You have private business logic alongside Kino modifications | ✅ Only publish the Kino modifications, keep the rest private |
 
